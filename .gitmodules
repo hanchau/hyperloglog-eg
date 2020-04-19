@@ -1,6 +1,0 @@
-[submodule "python-examples"]
-	path = python-examples
-	url = https://github.com/hanchau/python-examples
-[submodule "utils"]
-	path = utils
-	url = https://github.com/dragtor/python-examples
